@@ -1,9 +1,7 @@
 # Claude usage widget
 
 Claude Code'un yerel token kullanimini ekranin kosesinde gosteren kucuk masaustu
-widget'i (Python + tkinter, ek paket yok). Onde 5 saatlik oturum penceresi (canli
-sifirlanma sayaci) ve haftalik kullanim cubuklari; "Detaylar" altinda bugun / 30
-gun / toplam, 7 gunluk grafik, modele ve projeye gore kirilim.
+widget.
 
 ## Kullanim
 
@@ -19,8 +17,6 @@ gun / toplam, 7 gunluk grafik, modele ve projeye gore kirilim.
       }
 
   (Yolu kendi konumuna gore duzelt.)
-
-Gereksinim: Python 3 + tkinter (cogu Windows kurulumunda hazir).
 
 ## Kalibrasyon (yuzdeler)
 
