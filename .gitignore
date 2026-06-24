@@ -1,0 +1,7 @@
+# kullaniciya ozel (otomatik olusur)
+limits.json
+widget_config.json
+
+# python
+__pycache__/
+*.py[cod]

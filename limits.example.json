@@ -1,0 +1,10 @@
+{
+  "window_hours": 5,
+  "weekly_reset_weekday": 6,
+  "weekly_reset_hour": 18,
+  "plan_label": "",
+  "session_cap_usd": null,
+  "weekly_cap_usd": null,
+  "session_cap_tokens": null,
+  "weekly_cap_tokens": null
+}
